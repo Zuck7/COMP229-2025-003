@@ -2,20 +2,12 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import IngredientsList from './ingredientsList'
-
-const itemList = [
-  "1 cup of coffe",
-  "1 cup of tea",
-  "1 cup of baking soda"
-] 
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    <IngredientsList items={itemList}/>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
