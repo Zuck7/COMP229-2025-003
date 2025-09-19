@@ -1,3 +1,11 @@
+const data = [
+    {
+        imagePath: "",
+        title: 'Title 01',
+        
+    }
+]
+
 
 function Projects(){
     return(
