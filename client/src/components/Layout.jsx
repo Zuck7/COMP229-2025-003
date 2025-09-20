@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import image_logo from "../assets/ZUCK.png"
+import image_logo from '../assets/ZUCK.png'
 
 function Layout(){
     return(
