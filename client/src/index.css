@@ -34,7 +34,7 @@ body {
 }
 
 .row img {
-  width: 600px; /* Set a fixed width for the image */
+  width: 750px; /* Set a fixed width for the image */
   height: 480px; /* Set a fixed height for the image */
   object-fit: cover; /* Ensure the image scales properly */
   border-right: 3px solid #646cff;
@@ -43,14 +43,15 @@ body {
 
 .text-content {
   flex: 1; /* Allow the text content to take up remaining space */
-  width: 900px;
   padding-right: 20px;
+  width: 900px;
 
 }
 
 .title{
   background-color: #1f84ff;
 }
+
 
 .list {
   display: flex; /* Enable flexbox */
@@ -149,7 +150,7 @@ button:focus-visible {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
-.services{
+.images{
   width: 70px;
   height: 70px;
 }

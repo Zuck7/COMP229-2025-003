@@ -25,9 +25,10 @@ function Home(){
         <section id="education">
             <h2>Education</h2>
             <ul>
-                <h4>AI - Software Engineering Technology (Co-op) Advanced Diploma </h4>
-                <h4>Centennial College, Toronto, ON </h4>
-                <h4>September 2024 - Present</h4>
+                <h3>AI - Software Engineering Technology (Co-op) Advanced Diploma </h3>
+                <h3>Centennial College, Toronto, ON </h3>
+                <h3>September 2024 - Present</h3>
+                <p><strong>Courses: Java Programming | AI Systems Design | Web Development (JS, HTML, CSS) | Software Requirements | Database Concepts (SQL) | Introduction to AI | C# Programming.</strong></p>
             </ul>
         </section>
 
