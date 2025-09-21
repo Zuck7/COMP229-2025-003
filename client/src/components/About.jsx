@@ -1,4 +1,4 @@
-import ListComponent from "./ListComponent.jsx";
+import ListComponent from "./ListComponent";
 import zuhriddin from '../assets/zuhriddin.jpeg';
 
 const data = [

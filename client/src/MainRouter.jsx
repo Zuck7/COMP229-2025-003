@@ -1,11 +1,11 @@
-import { Routes, Route } from "react-router-dom";
-import Projects from "./components/projects";
-import About from "./components/about.jsx";
-import Services from "./components/Services.jsx";
-import Home from "./components/home.jsx";
-import NotFound from "./components/NotFound.jsx";
-import Contact from "./components/contact.jsx";
-import Layout from "./components/Layout.jsx";
+import { Routes, Route } from 'react-router-dom';
+import Projects from './components/projects.jsx';
+import About from './components/about.jsx';
+import Services from './components/Services.jsx';
+import Home from './components/home.jsx';
+import NotFound from './components/NotFound.jsx';
+import Contact from './components/contact.jsx';
+import Layout from './components/Layout.jsx';
  
 
 function MainRouter(){
@@ -16,7 +16,7 @@ function MainRouter(){
                 <Route path="/" element={<Home />} />
                 <Route path="/about" element={<About />} />
                 <Route path="/projects" element={<Projects />} />
-                <Route path="/Services" element={<Services />} />
+                <Route path="/services" element={<Services />} />
                 <Route path="/contact" element={<Contact />} />
                 <Route path="*" element={<NotFound />} />
             </Routes>
