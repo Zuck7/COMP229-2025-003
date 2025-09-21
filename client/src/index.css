@@ -31,18 +31,25 @@ body {
   border-left: 3px solid #646cff;
   border-right: 3px solid #646cff;
   border-bottom: 3px solid #646cff;
-
 }
 
 .row img {
-  width: 250px; /* Set a fixed width for the image */
-  height: 200px; /* Set a fixed height for the image */
+  width: 600px; /* Set a fixed width for the image */
+  height: 480px; /* Set a fixed height for the image */
   object-fit: cover; /* Ensure the image scales properly */
   border-right: 3px solid #646cff;
 }
 
+
 .text-content {
   flex: 1; /* Allow the text content to take up remaining space */
+  width: 900px;
+  padding-right: 20px;
+
+}
+
+.title{
+  background-color: #1f84ff;
 }
 
 .list {

@@ -5,8 +5,8 @@ const RowComponent = ({ item }) => {
       <div className="row">
         <img src={item.imagePath} alt="Row content" className='services' />
         <div className="text-content">
-          <h3>{item.title}</h3>
-          <p>{item.text}</p>
+          <h3 className='title'>{item.title}</h3>
+          <p className='text'>{item.text}</p>
         </div>
       </div>
     );
