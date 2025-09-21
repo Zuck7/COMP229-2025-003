@@ -1,4 +1,4 @@
-import ListComponent from "./ListComponent";
+import ListComponent from "./ListComponent.jsx";
 import pokedex from '../assets/pokedex.jpeg';
 import mobistore from '../assets/mobistore.jpeg';
 import uberEats from '../assets/uberEats.jpeg'

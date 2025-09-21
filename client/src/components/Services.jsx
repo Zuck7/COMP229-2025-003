@@ -1,4 +1,4 @@
-import ListComponent from "./ListComponent";
+import ListComponent from "./ListComponent.jsx";
 import bi_analyst from '../assets/bi_analyst.jpeg';
 import ui_uxdesigner from '../assets/ui_uxdesigner.jpeg';
 import data_analyst from '../assets/data_analyst.jpeg';
