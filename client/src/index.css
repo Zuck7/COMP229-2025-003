@@ -141,6 +141,7 @@ button:focus-visible {
   height: 70px;
 }
 
-.head{
-  align-self: flex-start;
+.description{
+  font-weight: bold;
+  align-items: start;
 }

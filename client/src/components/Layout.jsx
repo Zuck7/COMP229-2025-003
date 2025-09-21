@@ -4,7 +4,7 @@ import zuck from '../assets/zuck.jpeg';
 function Layout(){
     return(
        <>
-       <h1>My Portfolio</h1>
+       <h1>Zuhriddin (Zuck) Sharofiddinov</h1>
        <nav className="navbar">
         <img src={zuck} alt="logo" className="zuck"/>
         <Link to="/" >Home</Link>
