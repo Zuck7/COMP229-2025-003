@@ -60,6 +60,7 @@ body {
 }
 
 .page-container {
+  width: 900px;
   display: flex; /* Enable flexbox */
   flex-direction: column; /* Stack content vertically */
   align-items: center; /* Center content horizontally */
@@ -121,11 +122,13 @@ button:focus-visible {
   }
 }
 
+/*My logo*/
 .zuck{
   width: 70px;
   height: 70px;
 }
 
+/*Navigation bar*/
 .navbar {
   display: flex;
   justify-content: space-between; /* This spreads the links evenly */
@@ -150,16 +153,19 @@ button:focus-visible {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
+/*All other images*/
 .images{
   width: 70px;
   height: 70px;
 }
 
+/*Description on the Home page*/
 .description{
   font-weight: bold;
   align-items: start;
 }
 
+/*Skills on the Home page*/
 .skills{
   text-align-last:start;
 }

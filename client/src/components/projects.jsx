@@ -1,6 +1,7 @@
 import ListComponent from "./ListComponent";
 import pokedex from '../assets/pokedex.jpeg';
 import mobistore from '../assets/mobistore.jpeg';
+import uberEats from '../assets/uberEats.jpeg'
 
 const data = [
     {
@@ -23,7 +24,7 @@ const data = [
 
 function Projects() {
     return (
-        <div className="projects">
+        <div className="page-container">
             <h3>Projects</h3>
             <ListComponent items={data} />
             <section id="contact">
