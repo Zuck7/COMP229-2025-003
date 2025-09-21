@@ -9,24 +9,25 @@ function Home(){
             worked as a marketing associate in a software company, where implemented strong marketing and communication to attract 500+ active product users</p>
         </section>
 
-        <section id="resume">
+        <section id="techskills">
             <h2>Technical Skills</h2>   
                 <ul>
-                    <li className="skills"><strong>Programming:</strong> JavaScript, C#, Oracle SQL, Java, HTML/CSS, Python</li>
-                    <li className="skills"><strong>Frameworks & Libraries:</strong> React (Vita), Express, Node, .Net, Pandas, Matplotlib, MongoDB</li>
-                    <li className="skills"><strong>Operating Systems:</strong> MacOS, Linux, Windows</li>
-                    <li className="skills"><strong>Development Tools:</strong> GitHub, Visual Studio Code, Visual Studio, Eclipse, Anaconda Navigator</li>
-                    <li className="skills"><strong>Cloud Computing:</strong> AWS, Microsoft Azure</li>
-                    <li className="skills"><strong>Unit Testing:</strong> MSTest, unittest, Jest</li>
-                    <li className="skills"><strong>Other Tools:</strong>	Slack, Jira, Trello, MS Office, Figma, Google (Analytics, Trends, Ads)</li>
+                    <p className="skills"><strong>Programming:</strong> JavaScript, C#, Oracle SQL, Java, HTML/CSS, Python</p>
+                    <p className="skills"><strong>Frameworks & Libraries:</strong> React (Vita), Express, Node, .Net, Pandas, Matplotlib, MongoDB</p>
+                    <p className="skills"><strong>Operating Systems:</strong> MacOS, Linux, Windows</p>
+                    <p className="skills"><strong>Development Tools:</strong> GitHub, Visual Studio Code, Visual Studio, Eclipse, Anaconda Navigator</p>
+                    <p className="skills"><strong>Cloud Computing:</strong> AWS, Microsoft Azure</p>
+                    <p className="skills"><strong>Unit Testing:</strong> MSTest, unittest, Jest</p>
+                    <p className="skills"><strong>Other Tools:</strong>	Slack, Jira, Trello, MS Office, Figma, Google (Analytics, Trends, Ads)</p>
                 </ul>
         </section>
 
-        <section id="projects">
-            <h2>Projects</h2>
+        <section id="education">
+            <h2>Education</h2>
             <ul>
-                <li>TedxTSUE: Led a team of 25 members to organize a successful event.</li>
-                <li>IBS Group: Improved web search presence and implemented marketing initiatives.</li>
+                <h3>AI - Software Engineering Technology (Co-op) Advanced Diploma </h3>
+                <h3>Centennial College, Toronto, ON </h3>
+                <h4>September 2024 - Present</h4>
             </ul>
         </section>
 
