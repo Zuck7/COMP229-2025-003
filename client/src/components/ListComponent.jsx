@@ -1,4 +1,4 @@
-import RowComponent from "./rowComponent";
+import RowComponent from './components/rowComponent';
 
 function ListComponent({items}){
     return(
