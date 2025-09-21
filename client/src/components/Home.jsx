@@ -11,7 +11,6 @@ function Home(){
 
         <section id="techskills">
             <h2>Technical Skills</h2>   
-                <ul>
                     <p className="skills"><strong>Programming:</strong> JavaScript, C#, Oracle SQL, Java, HTML/CSS, Python</p>
                     <p className="skills"><strong>Frameworks & Libraries:</strong> React (Vita), Express, Node, .Net, Pandas, Matplotlib, MongoDB</p>
                     <p className="skills"><strong>Operating Systems:</strong> MacOS, Linux, Windows</p>
@@ -19,17 +18,36 @@ function Home(){
                     <p className="skills"><strong>Cloud Computing:</strong> AWS, Microsoft Azure</p>
                     <p className="skills"><strong>Unit Testing:</strong> MSTest, unittest, Jest</p>
                     <p className="skills"><strong>Other Tools:</strong>	Slack, Jira, Trello, MS Office, Figma, Google (Analytics, Trends, Ads)</p>
-                </ul>
         </section>
 
         <section id="education">
             <h2>Education</h2>
-            <ul>
                 <h3>AI - Software Engineering Technology (Co-op) Advanced Diploma </h3>
                 <h3>Centennial College, Toronto, ON </h3>
                 <h3>September 2024 - Present</h3>
                 <p><strong>Courses: Java Programming | AI Systems Design | Web Development (JS, HTML, CSS) | Software Requirements | Database Concepts (SQL) | Introduction to AI | C# Programming.</strong></p>
+        </section>
+
+        <section id="experience">
+            <h2>Experience</h2>
+            <div id="expdetails">
+            <h4>Marketing Associate</h4>
+            <h4>Quartermaster Inc., Toronto, Canada</h4>
+            <h4>April 2025 - Present</h4>
+            <ul className="expInfo">
+                <li>Collaborated with the software team on product bugs and reported them on Slack for a resolution</li>
+                <li>Contributed to the conversion of 15% of GTA (homeowner to product user), helped with account setups and assisted in leading the team of 11 members in achieving KPIs</li>
+                <li>In 5 months, collected 400+ referrals from homeowners on home service professionals they used</li>
             </ul>
+            <h4>Junior BI Analyst</h4>
+            <h4>KDB Bank, Tashkent, Uzbekistan</h4>
+            <h4>September 2022 – October 2022</h4>
+            <ul>
+                <li>Assisted in developing dashboards and reports for business and regulatory needs</li>
+                <li>Worked with Senior BI Analyst to translate business requirements into data models and visualizations</li>
+                <li>Supported in automating manual reporting tasks using Excel, SQL and BI tools</li>
+            </ul>
+            </div>
         </section>
 
         <section id="contact">

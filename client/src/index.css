@@ -183,6 +183,13 @@ button:focus-visible {
   border-bottom: 2px solid #646cff;
 }
 
+#expdetails{
+  text-align: start;
+}
+
+.expInfo{
+  border-bottom: 1px solid #646cff;
+}
 
 /* Contact Form Styles */
 .contact-form {
