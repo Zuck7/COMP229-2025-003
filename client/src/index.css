@@ -21,6 +21,7 @@ body {
   justify-content: center; /* Center content vertically */
   min-height: 100vh; /* Ensure the body takes up the full viewport height */
   background-color: #f9f9f9; /* Optional: Set a background color */
+  width: 100%;
 }
 .row {
   display: flex; /* Enable flexbox */

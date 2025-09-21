@@ -9,7 +9,7 @@ function Layout(){
        <nav className="navbar">
         <img src={zuck} alt="logo" className="zuck"/>
         <Link to="/" >Home</Link>
-        <Link to="/about" >About</Link>
+        <Link to="/about" >About Me</Link>
         <Link to="/projects" >Projects</Link>
         <Link to="/Services" >Services</Link>
         <Link to="/contact" >Contact</Link>
