@@ -1,10 +1,11 @@
 import { Link } from 'react-router-dom';
-import zuck from '../assets/zuck.jpeg';
+import zuck from '../assets/zuck.png';
 
 function Layout(){
     return(
        <>
-       <h1>Zuhriddin (Zuck) Sharofiddinov</h1>
+       <div id='animated'>
+       <h2>Zuhriddin (Zuck) Sharofiddinov</h2>
        <nav className="navbar">
         <img src={zuck} alt="logo" className="zuck"/>
         <Link to="/" >Home</Link>
@@ -15,6 +16,7 @@ function Layout(){
        </nav>
        <br />
        <hr />
+       </div>
        </>
     );
 }

@@ -27,10 +27,10 @@ body {
   align-items: center; /* Align items vertically */
   gap: 20px; /* Add spacing between the image and text */
   margin-bottom: 20px; /* Add spacing between rows */
-  border-top: 2px solid #646cff;
-  border-left: 2px solid #646cff;
-  border-right: 2px solid #646cff;
-  border-bottom: 2px solid #646cff;
+  border-top: 3px solid #646cff;
+  border-left: 3px solid #646cff;
+  border-right: 3px solid #646cff;
+  border-bottom: 3px solid #646cff;
 
 }
 
@@ -38,7 +38,7 @@ body {
   width: 250px; /* Set a fixed width for the image */
   height: 200px; /* Set a fixed height for the image */
   object-fit: cover; /* Ensure the image scales properly */
-  border-right: 2px solid #646cff;
+  border-right: 3px solid #646cff;
 }
 
 .text-content {
@@ -114,8 +114,8 @@ button:focus-visible {
 }
 
 .zuck{
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
 }
 
 .navbar {
