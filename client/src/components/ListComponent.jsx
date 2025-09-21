@@ -1,13 +1,12 @@
-import RowComponent from './components/rowComponent';
+import RowComponent from './rowComponent';
 
-function ListComponent({items}){
-    return(
-        <div>
+function ListComponent({ items }) {
+    return (
+        <div className="list">
             {items.map((itemList, index) => (
-                <RowComponent key={index} item={itemList}/>
-            )) }
+                <RowComponent key={index} item={itemList} />
+            ))}
         </div>
     );
 }
-
 export default ListComponent;

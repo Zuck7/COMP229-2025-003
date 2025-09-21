@@ -18,7 +18,7 @@ function MainRouter(){
                 <Route path="/projects" element={<Projects />} />
                 <Route path="/Services" element={<Services />} />
                 <Route path="/contact" element={<Contact />} />
-                <Route path="/NotFound" element={<NotFound />} />
+                <Route path="*" element={<NotFound />} />
             </Routes>
         </div>
     );
