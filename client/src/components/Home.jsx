@@ -42,7 +42,7 @@ function Home(){
             <h4>Junior BI Analyst</h4>
             <h4>KDB Bank, Tashkent, Uzbekistan</h4>
             <h4>September 2022 – October 2022</h4>
-            <ul>
+            <ul className="expInfo">
                 <li>Assisted in developing dashboards and reports for business and regulatory needs</li>
                 <li>Worked with Senior BI Analyst to translate business requirements into data models and visualizations</li>
                 <li>Supported in automating manual reporting tasks using Excel, SQL and BI tools</li>
@@ -51,9 +51,13 @@ function Home(){
             <h4>Infinix Mobility (Production of Gadgets), Tashkent, Uzbekistan</h4>
             <h4>March 2024 – August 2024</h4>
             <ul>
-                <li>Assisted in developing dashboards and reports for business and regulatory needs</li>
-                <li>Worked with Senior BI Analyst to translate business requirements into data models and visualizations</li>
-                <li>Supported in automating manual reporting tasks using Excel, SQL and BI tools</li>
+                <li>Delegated tasks in the marketing department, supported the department with requesting additional information 
+                from headquarter in China and confirmed upcoming product launch campaigns;</li>
+                <li>Administered 2 social media platforms, analyzed the effectiveness of content, launched collaboration campaigns 
+                with retailers, communicated with 50k audience on Instagram page, and answered their questions;</li>
+                <li>Ran product presentation content with 30 bloggers and influencers, signed 2 ambassadors to represent products, 
+organized overall 25 presentations for partners on new product launch campaigns, negotiated partners’ questions, 
+and provided further details for partnership;</li>
             </ul>
             </div>
         </section>
