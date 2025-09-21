@@ -47,6 +47,14 @@ function Home(){
                 <li>Worked with Senior BI Analyst to translate business requirements into data models and visualizations</li>
                 <li>Supported in automating manual reporting tasks using Excel, SQL and BI tools</li>
             </ul>
+            <h4>Country Marketing Manager</h4>
+            <h4>Infinix Mobility (Production of Gadgets), Tashkent, Uzbekistan</h4>
+            <h4>March 2024 – August 2024</h4>
+            <ul>
+                <li>Assisted in developing dashboards and reports for business and regulatory needs</li>
+                <li>Worked with Senior BI Analyst to translate business requirements into data models and visualizations</li>
+                <li>Supported in automating manual reporting tasks using Excel, SQL and BI tools</li>
+            </ul>
             </div>
         </section>
 
