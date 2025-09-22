@@ -4,7 +4,7 @@ import About from './components/About.jsx';
 import Services from './components/Services.jsx';
 import Home from './components/Home.jsx';
 import NotFound from './components/NotFound.jsx';
-import Contact from './components/contact.jsx';
+import Contact from './components/Contact.jsx';
 import Layout from './components/Layout.jsx';
  
 
