@@ -1,4 +1,3 @@
-import MainRouter from "../MainRouter";
 import ListComponent from "./ListComponent";
 import zuhriddin from '../assets/zuhriddin.jpeg';
 
