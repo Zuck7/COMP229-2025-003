@@ -1,5 +1,6 @@
 import ListComponent from "./ListComponent";
 import zuhriddin from '../assets/zuhriddin.jpeg';
+// import zuhriddin_resume from '../assets/zuhriddin_resume.pdf';
 
 const data = [
     {
@@ -13,6 +14,7 @@ const data = [
             <div className="page-container">
                 <h3 className="head">About Me</h3>
                 <ListComponent items={data} />
+                <a href="../assets/zuhriddin_resume.pdf" download = "zuhriddin_resume">Download my resume</a>
                 <section id="contact">
                 <h2>Contact</h2>
                 <p>Feel free to reach out to me for any opportunities or inquiries.</p>
