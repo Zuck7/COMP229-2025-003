@@ -1,6 +1,7 @@
 import ListComponent from "./ListComponent";
 import zuhriddin from '../assets/zuhriddin.jpeg';
-// import zuhriddin_resume from '../assets/zuhriddin_resume.pdf';
+import Resume from '../assets/zuhriddin_resume.pdf';
+
 
 const data = [
     {
@@ -11,10 +12,11 @@ const data = [
 
     function About() {
         return (
+            <>
             <div className="page-container">
                 <h3 className="head">About Me</h3>
                 <ListComponent items={data} />
-                <a href="../assets/zuhriddin_resume.pdf" download = "zuhriddin_resume">Download my resume</a>
+                <a href={Resume} download> Download Resume</a>
                 <section id="contact">
                 <h2>Contact</h2>
                 <p>Feel free to reach out to me for any opportunities or inquiries.</p>
@@ -22,6 +24,7 @@ const data = [
                 <p>+1(437) 214-2297 | LinkedIn: <a href="https://www.linkedin.com/in/zuhriddinsh/" target="_blank">Zuhriddin Sharofiddinov</a></p>
             </section>
             </div>
+            </>
         );
     }
 
